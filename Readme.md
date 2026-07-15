@@ -22,3 +22,6 @@ Machine learning regression model for predicting used car prices.
 - Seaborn
 - Scikit-learn
 - Jupyter Notebook
+
+  Name = pratyush Kumar
+  Email = Kpratyush23127@gmail.com
